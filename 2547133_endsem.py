@@ -112,7 +112,7 @@ df = df[
 # -----------------------------
 if page == "Dashboard Overview":
 
-    st.title("TECHFEST-2025 Analytics and Insights Portal")
+    st.title("GATEWAYS TECHFEST-2025 Analytics and Insights Portal")
 
     total_participants = len(df)
     total_events = df["Event Name"].nunique()
