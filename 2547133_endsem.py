@@ -9,7 +9,7 @@ import requests
 # PAGE CONFIG
 # -----------------------------
 st.set_page_config(
-    page_title="TECHFEST-2025 Analytics",
+    page_title="GATEWAY TECHFEST-2025 Analytics",
     layout="wide"
 )
 
